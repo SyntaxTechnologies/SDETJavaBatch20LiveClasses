@@ -1,0 +1,24 @@
+Why we are here?
+    We want to be QA automation engineers.
+What is Java?
+   It's a computer language that we use to communicate
+   with a computer.
+What are variables?
+    Are containers that can be used to store the data inside
+    computer programs.
+DataTypes:
+Camel Case:
+    First letter of first word is lowercase and for
+    the rest of the words first letter is uppercase. It is
+    used for variables
+    myAge
+    mySalary
+    taxRate
+    thisIsCamelCase
+Pascal Case:
+    Every first letter of every word is upper case.
+    It is used for classes
+    MyAge
+    MySalary
+    TaxRate
+    ThisIsPascalCase
