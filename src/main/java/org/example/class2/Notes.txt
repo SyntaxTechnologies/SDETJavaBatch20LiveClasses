@@ -1,0 +1,8 @@
+String Concatenation:
+Assignment operator:
+    =
+    int age=10;
+Arithmetic operator:
+    + - * / %
+Relational Operators
+== they help us check if two entities are same or not
