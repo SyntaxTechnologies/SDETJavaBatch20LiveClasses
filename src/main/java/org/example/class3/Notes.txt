@@ -1,0 +1,22 @@
+Nested If else:
+    We use Nested if else when we have to check multiple conditions and
+    the conditions are dependent on each other.
+general GuideLines:
+    1)Always place the starting and closing brackets together.
+    2) Go through the code line by line step by step.
+    3) Check which conditions are dependent on which other conditions
+    4) Use the intellij to figure out the code which is affected
+    by a condition.
+Logical Operators:
+Not(!) operator:
+    It reverses the boolean conditions.
+OR(||)
+    It helps us combine multiple boolean condition in such a way that
+    if one condition is true the overall result is true and if all conditions
+    are false the result is false.
+AND(&&):
+    It helps us combine multiple boolean condition in such a way that
+    if All conditions are true then only the overall result is true
+    other its false.
+
+
