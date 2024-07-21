@@ -1,0 +1,11 @@
+When should we use while loop?
+    When we do not know the number of iterations in advance it's better
+    to go with while loop.
+    for example if you are searching for something on a webpage and
+    you have a lot of results you might not know how many results
+    you have to go through before you see your desired result.
+When should we use Do while loop?
+    When we want to execute the code inside the loop at least once
+    before checking the condition we should use do while loop.
+When should we use for loop?
+    When we know the iterations in advance we can go and use a for loop.
