@@ -1,0 +1,55 @@
+How OOPS is going to help us?
+Class and objects
+
+Method:
+Methods are blocks of code which contain java
+statements which are executed
+when we call a method.
+why should we use methods?
+So that we can reuse the code in other classes
+without copying and pasting the code.
+Local Variables:
+    Local variables are those variables which are declared
+    inside a method, loop ,if condition switch etc.
+Instance variables:
+    Instance variables are those variables which are declared
+    outside a method, loop ,if condition switch etc.
+static variables:
+    All those variables which have static keyword with them
+    are called static variables.
+Access modifiers:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+add video for String buffer
+add some examples for String methods show how
+to use these methods further in if else
+loops etc.
+show from exisiting classes when we should use
+privATE and when we should use public like all
+the methods should be public and feilds should be
+private

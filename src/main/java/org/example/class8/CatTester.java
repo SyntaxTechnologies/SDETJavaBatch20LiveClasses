@@ -1,6 +1,4 @@
-package org.example.class6;
-
-import org.example.class8.Employee;
+package org.example.class8;
 
 public class CatTester {
     public static void main(String[] args) {
