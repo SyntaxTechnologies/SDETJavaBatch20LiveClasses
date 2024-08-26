@@ -1,8 +1,8 @@
 package org.example.class10;
 
-public class Parent {
+public  class Parent {
 
-     void marry(){
+   void marry(){
         System.out.println("Marry the girl that we choose for you");
     }
     void eat(){

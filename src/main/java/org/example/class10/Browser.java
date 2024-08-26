@@ -1,6 +1,7 @@
 package org.example.class10;
 
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Browser {
@@ -31,6 +32,19 @@ public class Browser {
         f.navigate().back();
         Thread.sleep(2000);
         f.quit();
-        // Beak till 1:53
+
+
+        EdgeDriver e=new EdgeDriver();
+        e.get("https://facebook.com");
+        Thread.sleep(2000);
+        e.navigate().refresh();
+        e.navigate().to("https://amazon.com");
+        Thread.sleep(2000);
+        e.navigate().refresh();
+        Thread.sleep(2000);
+        e.navigate().back();
+        Thread.sleep(2000);
+        e.quit();
+
     }
 }
