@@ -1,0 +1,11 @@
+Super Keyword:
+
+Coding questions:
+    if else
+    loops
+    1d arrays
+    String class methods
+verbal questions:
+    explain inheritance
+    explain method overloading
+    explain method overriding
