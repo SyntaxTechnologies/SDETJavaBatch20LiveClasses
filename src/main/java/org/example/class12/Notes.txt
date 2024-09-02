@@ -1,0 +1,61 @@
+Collections framework:
+     A collection of classes and interfaces which help
+     us store and manipulate large amounts of data.
+Some of the classes and interfaces are:
+  List:
+    1)ArrayList
+    2)LinkedList
+  Set:
+    1)HashSet
+    2)LinkedHashSet
+    3)TreeSet
+  Map:
+  HashMap
+  LinkedHashMap
+  TreeMap
+Wrapper Classes:
+    Wrapper are equivalent classes for primitive datatypes.
+List:
+    1)You can store duplicates inside the list.
+    2)Insertion order is maintained.
+ArrayList:
+    Is better when most of our operations are accessing the data.
+LinkedList:
+    is better when most of the time we will be changing the data.
+
+ Set:
+    They don't allow duplicate items.
+HashSet:
+    Good:
+        It's Fast.
+    Bad:
+        it does not remember the insertion order.
+LinKedHashSet:
+    Good:
+    It remembers the insertion order.
+    Bad:
+        Slower as compared to the HashSet.
+TreeSet:
+    Good:
+        Keeps the data sorted. which makes searching something really fast.
+    Bad:
+    inserting new elements is very slow.
+Map:
+    They are used to store key value pairs.
+HashMap:
+      Good:
+          It's Fast.
+      Bad:
+          it does not remember the insertion order.
+LinkedHashMap:
+    Good:
+        It remembers the insertion order.
+    Bad:
+        Slower as compared to the HashSet.
+TreeMap:
+    Good:
+        Keeps the data sorted. which makes searching something really fast.
+    Bad:
+    inserting new elements is very slow.
+
+
