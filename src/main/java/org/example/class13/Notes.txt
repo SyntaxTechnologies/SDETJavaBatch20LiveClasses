@@ -1,0 +1,4 @@
+What do we need to read the data from a file?
+    1) we need to know the Location of file.
+    2) Navigate to the location where files is stored.
+    3) we need a software which can open that file for us
