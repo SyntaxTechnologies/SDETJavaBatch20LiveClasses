@@ -10,6 +10,5 @@ public class ConfigReaderDemo {
         String path = "Files/Config.properties";
         String urlValue = ConfigReader.read(path, "url");
         System.out.println(urlValue);
-
     }
 }

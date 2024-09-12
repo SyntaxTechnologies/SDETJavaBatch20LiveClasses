@@ -1,0 +1,8 @@
+Exceptions:
+    It's an unwanted behaviour which disrupts the
+    normal flow of the program.
+Types of errors:
+    There are three main types of errors in java
+    1)Syntax error
+    2)Logical error
+    3)Exception.
